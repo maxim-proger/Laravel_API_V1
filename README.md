@@ -5,6 +5,16 @@ Made on Laravel 11.
 
 The project can be expanded and used as a basis for developing your own API.
 
+## Demo
+
+[Download Postman documentation file: Postman.json](https://github.com/maxim-proger/Laravel_API_V1/blob/main/docs/postman.json)
+
+![alt text](https://github.com/maxim-proger/Laravel_API_V1/blob/main/docs/postman_1.jpg?raw=true)
+
+![alt text](https://github.com/maxim-proger/Laravel_API_V1/blob/main/docs/postman_2.jpg?raw=true)
+
+![alt text](https://github.com/maxim-proger/Laravel_API_V1/blob/main/docs/postman_3.jpg?raw=true)
+
 ## POST User - Registration
 
 POST /api/registration
